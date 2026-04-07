@@ -127,6 +127,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/siddhivarshney44-dev">
+                    <img src="https://avatars.githubusercontent.com/u/231615942?v=4" width="100px;"
+                        alt="SIDDHI VARSHNEY" />
+                    <br />
+                    <sub>
+                        <b>SIDDHI VARSHNEY</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/RachitSinghh">
                     <img src="https://avatars.githubusercontent.com/u/36344482?v=4" width="100px;"
                         alt="Rachit Singh" />
